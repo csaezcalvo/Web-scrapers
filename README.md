@@ -1,6 +1,8 @@
 # Web-scrapers
 Some web scrapers in Python designed to obtain names of items selled by the company
-Contents:
+
+## Contents:
+
 -leroymerlin_webscraping: gets *all* names of items contained in the Leroy Merlin web
 
 -leroymerlin_webscraping_first_pages: gets only the items in the first page of each category
